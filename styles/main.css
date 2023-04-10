@@ -13,8 +13,8 @@ table{
     border: 2px solid black;
 }
 td{
-    min-width: 100px;
-    height: 100px;
+    min-width: 15vh;
+    height: 15vh;
     border: 2px solid black;
     border-radius: 50%;
 }
