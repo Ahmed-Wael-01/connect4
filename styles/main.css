@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    border: 2px solid black;
+}
+td{
+    min-width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
